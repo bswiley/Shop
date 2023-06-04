@@ -8,6 +8,7 @@ const sequelize = require('../config/connection');
 const seedAll = async () => {
   await sequelize.sync({ force: true });
   console.log('\n----- DATABASE SYNCED -----\n');
+
   await seedCategories();
   console.log('\n----- CATEGORIES SEEDED -----\n');
 
@@ -19,6 +20,11 @@ const seedAll = async () => {
 
   await seedProductTags();
   console.log('\n----- PRODUCT TAGS SEEDED -----\n');
+
+  // Query the product_id column
+  const query = 'SELECT product_id FROM product_tag';
+  const [results, _] = await sequelize.query(query);
+  console.log(results);
 
   process.exit(0);
 };
