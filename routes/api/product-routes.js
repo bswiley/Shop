@@ -44,7 +44,8 @@ router.route('/')
           const productTagIdArr = req.body.tagIds.map((tag_id) => {
             return {
               product_id: product.id,
-              tag_id,
+              price: price, 
+              stock: stock
             };
           });
           return ProductTag.bulkCreate(productTagIdArr);

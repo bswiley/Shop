@@ -24,7 +24,7 @@ const seedAll = async () => {
   // Query the product_id column
   const query = 'SELECT product_id FROM product_tag';
   const [results, _] = await sequelize.query(query);
-  console.log(results);
+ 
 
   process.exit(0);
 };
