@@ -33,7 +33,7 @@ After the repository is cloned and the .env file is fully filled out you need to
 
 [[Video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")]
 
-![video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
+[video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
 
 ## Tests
 There aren't any tests created for this program.
