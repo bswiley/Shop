@@ -35,6 +35,10 @@ After the repository is cloned and the .env file is fully filled out you need to
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 
+  <video width="640" height="480" controls>
+  <source src="https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing" type="video/WEBM">
+  Your browser does not support the video tag.
+</video>
 
 ## Tests
 There aren't any tests created for this program.
