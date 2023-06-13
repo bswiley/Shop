@@ -39,6 +39,7 @@ After the repository is cloned and the .env file is fully filled out you need to
   <source src="https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing" type="video/WEBM">
   Your browser does not support the video tag.
 </video>
+![video}("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
 
 ## Tests
 There aren't any tests created for this program.
