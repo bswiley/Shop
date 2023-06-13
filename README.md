@@ -20,7 +20,7 @@ This project is the backend of a 'ecommerce' site (since its a backend, it has t
 
 [License](#License)
 
-cd[Questions](#Questions)
+[Questions](#Questions)
 
 ## Installation
 There are many dependencies to the project so you need not only node.js installed, but also mysql installed.  The dependencies for Node.js (i.e. dotenv, express, mysql2, and sequelize) are all set up to be installed automatically by the program.  One important thing to remember before using the software, however, is that after you clone the repository, you need to fill out the required information in the .env file.  The database field is already filled in.  Assuming your using the root user, therefore, all you need to do is fill in your mysql password before using it. 
@@ -33,7 +33,7 @@ After the repository is cloned and the .env file is fully filled out you need to
 
 [[Video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")]
 
-![video}("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
+![video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
 
 ## Tests
 There aren't any tests created for this program.
