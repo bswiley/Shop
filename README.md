@@ -29,8 +29,7 @@ There are many dependencies to the project so you need not only node.js installe
 Any  potential contributions can be sent to the email address at the bottom of the page.
 
 ## Usage
-After the repository is cloned and the .env file is fully filled out you need to get into your mysql account and SOURCE the db/schema.sql file and then seed the database through  the "npm run seed" command.  Before or after this you also need to run the "npm install" command to make sure you have all the required dependencies and then "npm start" to start the program.  This and the usage of the program is shown in this short video
-[Video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
+After the repository is cloned and the .env file is fully filled out you need to get into your mysql account and SOURCE the db/schema.sql file and then seed the database through  the "npm run seed" command.  Before or after this you also need to run the "npm install" command to make sure you have all the required dependencies and then "npm start" to start the program.  This and the usage of the program is shown in this short [!video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")
 
 [![Video]("https://drive.google.com/file/d/1SekgI9xepSnxASSf8bYmcfLl-3Finr-p/view?usp=sharing")]
 
